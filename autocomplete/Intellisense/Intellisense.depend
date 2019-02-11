@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1364193543 source:d:\bibliothèques\documents\my doc\plus+\work\intellisense\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Intellisense.h"
+
+1364194927 d:\bibliothèques\documents\my doc\plus+\work\intellisense\intellisense.h
+	<string.h>
+	<iostream>
+	<vector>
+	<fstream>
+
+1364195043 source:d:\bibliothèques\documents\my doc\plus+\work\intellisense\intellisense.cpp
+	"Intellisense.h"
+	<string>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+
+1364193544 source:d:\bibliothèques\downloads\intellisense\intellisense\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Intellisense.h"
+
+1364194928 d:\bibliothèques\downloads\intellisense\intellisense\intellisense.h
+	<string.h>
+	<iostream>
+	<vector>
+	<fstream>
+
+1364196160 source:d:\bibliothèques\downloads\intellisense\intellisense\intellisense.cpp
+	"Intellisense.h"
+	<string>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+
+1364193544 source:d:\bibliothèques\documents\my doc\plus+\work\intellisense\intellisense\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Intellisense.h"
+
+1364194928 d:\bibliothèques\documents\my doc\plus+\work\intellisense\intellisense\intellisense.h
+	<string.h>
+	<iostream>
+	<vector>
+	<fstream>
+
+1364196440 source:d:\bibliothèques\documents\my doc\plus+\work\intellisense\intellisense\intellisense.cpp
+	"Intellisense.h"
+	<string>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+
+1364193544 source:d:\bibliothèques\documents\my doc\plus+\work\tw\intellisense\intellisense\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Intellisense.h"
+
+1364194928 d:\bibliothèques\documents\my doc\plus+\work\tw\intellisense\intellisense\intellisense.h
+	<string.h>
+	<iostream>
+	<vector>
+	<fstream>
+
+1364196440 source:d:\bibliothèques\documents\my doc\plus+\work\tw\intellisense\intellisense\intellisense.cpp
+	"Intellisense.h"
+	<string>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+
